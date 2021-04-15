@@ -31,7 +31,6 @@ BOOTSTRAP E JQUERY
 
 Seção 18 - JQuery
 Seção 19 - Bootstrap
-SE VOCÊ CHEGOU ATÉ AQUI, MEUS PARABÉNS! VOCÊ JÁ PODE TRABALHAR DANDO MANUTENÇÃO EM MUITOS, REPITO: MUITOS SITES E SISTEMAS "LEGADOS".
 
 Agora, vou chamar esse conjunto de seções de "Javascript Moderno":
 
@@ -57,3 +56,4 @@ A partir de agora, você tem as seguintes opções a seguir:
 - Apenas a seção de React e projetos;
 - Apenas a somente a seção de Angular e projetos;
 - Apenas a somente a seção de Vue e projetos;
+
